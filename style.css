@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+}
+
+h1,h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    margin-top: 5px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bord {
+    border: 3px solid black;
+
+}
+
+.section_a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightcoral;
+}
+
+.section_b {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#top_sec {
+    text-align: center;
+    margin-bottom: 5px;
+    background-color: gold;
+}
+
+img {
+    position: relative;
+    left: 40%;
+    height: 200px;
+    border: 3px dotted black;
+}
+
+#Summary_Section {
+    background-color: aliceblue;
+    width: 60%;
+    text-align: center;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+#Education_Section {
+    width: 60%;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+#Work_Experience_Section{
+    width: 80%;
+    background-color: aliceblue;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+#skills_section{
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+#awards_section{
+    background-color: aliceblue;
+    width: 80%;
+    padding: 5px;
+    text-align: center;
+}
+
+#footer {
+    padding: 5px;
+    background-color: burlywood;
+}
